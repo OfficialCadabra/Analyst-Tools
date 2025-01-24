@@ -21,3 +21,6 @@ This includes:
 
 ![image](https://github.com/user-attachments/assets/2ab09553-2820-4dd0-8fc4-1bf2148313ff)
 
+# Want to try the bot for yourself?
+
+https://discord.gg/8n2SgbA3wM
