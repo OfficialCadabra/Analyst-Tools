@@ -24,3 +24,5 @@ This includes:
 # Want to try the bot for yourself?
 
 https://discord.gg/8n2SgbA3wM
+
+Please remember to credit me as I have spent alot of time developing these tools. Have fun :D
