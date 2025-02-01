@@ -25,7 +25,7 @@ This includes:
 
 https://discord.gg/8n2SgbA3wM
 
-**In order to use the bot you will need a birdeye API key: 
+**In order to use the bot you will need a birdeye API key: **
 https://bds.birdeye.so/
 **and you will need the package premium or more, or you could contact them if you are a bussienss to get a one month free trial of bussiness.**
 
