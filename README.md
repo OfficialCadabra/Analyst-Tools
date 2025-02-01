@@ -23,7 +23,7 @@ This includes:
 
 # Want to try the bot for yourself?
 
-https://discord.gg/8n2SgbA3wM
+https://discord.gg/8n2SgbA3wM  <--- now closed down ): but if your interested into purchasing our analyst bot shoot me a dm, its just an automated callout bot redirect from telegram
 
 **In order to use the bot you will need a birdeye API key:**
 
