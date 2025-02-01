@@ -12,7 +12,7 @@ load_dotenv()
 
 # Bot configuration
 TOKEN = os.getenv('DISCORD_BOT_TOKEN')
-BIRDEYE_API_KEY = os.getenv('BIRDEYE_API_KEY', '38bef9abd206491281ba6a5e7c2ca29f')
+BIRDEYE_API_KEY = os.getenv('BIRDEYE_API_KEY', 'BIRDEYEAPIKEYHERE!!')
 BROKE_GIFS = [
     'https://media.tenor.com/aj47iJzWZgwAAAPo/broke-no.mp4',
     'https://media.tenor.com/h1-tMFNDA1gAAAPo/broke-poor.mp4',
